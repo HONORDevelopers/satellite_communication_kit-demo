@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">SatelliteCommunicationKit</string>
+    <string name="btnSatEnabled">requestSatelliteEnabled</string>
+    <string name="btnSatModem">registerForSatelliteModemStateChanged</string>
+    <string name="btnSatUnModem">unregisterForSatelliteModemStateChanged</string>
+    <string name="btnSatPointing">registerForSatellitePointingUpdates</string>
+    <string name="btnSatUnPointing">unregisterForSatellitePointingUpdates</string>
+    <string name="btnSatSupportType">getSatelliteSupportType</string>
+    <string name="btnSatSimCards">getAvailableSatSimCards</string>
+    <string name="btnSatSetSlot">setSatelliteSlot</string>
+    <string name="btnSatMessage">sendTextMessage</string>
+    <string name="btnClearButton">Clear Content</string>
+    <string name="textInputTitle">TextInputTitle</string>
+    <string name="textInputTitleHint">输入框：</string>
+    <string name="editInput">EditInput</string>
+    <string name="editInputHint">输入参数......</string>
+    <string name="textOutputTitle">TextOutputTitle</string>
+    <string name="textOutputTitleHint">输出框：</string>
+    <string name="textOutput">TextOutput</string>
+    <string name="textOutputHint">输出结果......</string>
+    <string name="textPointOutputTitleHint">对星状态：</string>
+    <string name="textSatEleTitleHint">卫星仰角：</string>
+    <string name="textSatAziTitleHint">卫星方位角：</string>
+    <string name="textSatHorTitleHint">卫星水平角：</string>
+    <string name="textPhoEleTitleHint">手机仰角：</string>
+    <string name="textPhoAziTitleHint">手机方位角：</string>
+    <string name="textPhoHorTitleHint">手机水平角：</string>
+    <string name="textModemOutputTitleHint">Modem状态：</string>
+    <string name="textServStatOutputTitleHint">卫星服务状态：</string>
+    <string name="textSigLvlOutputTitleHint">卫星信号强度：</string>
+
+
+
+
+
+</resources>
